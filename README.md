@@ -8,6 +8,7 @@ These are my solutions sorted from newest to oldest:
 
 | Date            | Solution Directory |
 | --------------- | ------------------ |
+| Fri 12 Sep 2025 | [Screen Time](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/bc8f8d3a73aef8bda4280d958b784c5ba2c3f3f7/2025/09/12%20-%20Screen%20Time)
 | Thu 11 Sep 2025 | [Reverse Sentence](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/5cd511a129eb7ff97774003ac3eba7fae33364cc/2025/09/11%20-%20Reverse%20Sentence)
 | Wed 10 Sep 2025 | [Array Diff](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/3b69e74f8299f98db75e66313b14a4608e084c5f/2025/09/10%20-%20Array%20Diff/csharp)
 | Tue 09 Sep 2025 | [Unique Characters](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/f08b6c4ed24d60be48bc44baadbb44c54f03c333/2025-09-09%20-%20Unique%20Characters)
