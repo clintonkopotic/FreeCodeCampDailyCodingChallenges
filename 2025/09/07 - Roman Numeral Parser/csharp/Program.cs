@@ -5,8 +5,7 @@ using System.Globalization;
 using System.Text;
 
 /// <summary>
-/// This is the Daily Coding Challenge for Sun 07 Sep 2025:
-/// <see href="https://www.linkedin.com/posts/free-code-camp_freecodecamp-now-has-daily-coding-challenges-activity-7370459682152308736-P-1K">LinkedIn Post</see>.
+/// <see href="https://www.freecodecamp.org/learn/daily-coding-challenge/2025-09-07"/>
 /// </summary>
 /// <remarks>Since the largest numeral in standard form is 3,999 (see
 /// <see href="https://en.wikipedia.org/wiki/Roman_numerals#Standard_form">
@@ -61,6 +60,39 @@ internal class Program
     public static void Main()
     {
         List<string> failures = [];
+
+        foreach ((var numeral, var expected) in Tests)
+        {
+            Console.Write($"Testing \"{numeral:N0}\" (expecting "
+                + $"{expected:N0})...");
+            var result = ParseRomanNumeral(numeral);
+            var success = expected == result;
+            Console.WriteLine($"{result:N0} (Success: {success}).");
+
+            if (!success)
+            {
+                failures.Add(numeral);
+            }
+        }
+
+        Console.WriteLine();
+
+        if (failures.Count > 0)
+        {
+            Console.WriteLine("The following numerals were not parsed "
+                + $"correctly: {string.Join(", ", failures)}.");
+
+            return;
+        }
+
+
+        Console.WriteLine("All numerals were parsed correctly.");
+        Console.WriteLine();
+        ushort minNumeralNumber = 1;
+        ushort maxNumeralNumber = 3_999;
+        Console.WriteLine($"Counting from {minNumeralNumber:N0} to "
+            + $"{maxNumeralNumber:N0}:");
+        failures.Clear();
         var longestNumeral = string.Empty;
         ushort longestAsDecimal = 0;
         Console.WriteLine($"{"Numeral",15} | {"Parsed",6} "
@@ -68,14 +100,15 @@ internal class Program
         Console.WriteLine($"{new string('-', 15)}-+-{new string('-', 6)}-"
             + $"+-{new string('-', 8)}-+-{new string('-', 7)}");
 
-        for (ushort number = 1; number < 4_000; number++)
+        for (ushort number = minNumeralNumber; number <= maxNumeralNumber;
+            number++)
         {
             var numeral = ConvertToRomanNumeral(number);
             var parsedValue = ParseRomanNumeral(numeral);
             var success = parsedValue == number;
             Console.WriteLine($"{numeral,15} | {parsedValue,6:N0} "
                 + $"| {number,8:N0} "
-                + $"| {parsedValue == number,7}");
+                + $"| {success,7}");
 
             if (numeral.Length > longestNumeral.Length)
             {
@@ -106,6 +139,17 @@ internal class Program
             + $"characters is {longestNumeral} or in decimal "
             + $"{longestAsDecimal:N0}.");
     }
+
+    static Dictionary<string, ushort> Tests => new()
+    {
+        { "III", 3 },
+        { "IV", 4 },
+        { "XXVI", 26 },
+        { "XCIX", 99 },
+        { "CDLX", 460 },
+        { "DIV", 504 },
+        { "MMXXV", 2025 },
+    };
 
     public static string ConvertToRomanNumeral(ushort number)
     {

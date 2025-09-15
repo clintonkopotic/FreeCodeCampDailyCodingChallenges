@@ -2,6 +2,9 @@
 using System;
 using System.Collections.Generic;
 
+/// <summary>
+/// <see href="https://www.freecodecamp.org/learn/daily-coding-challenge/2025-09-09"/>
+/// </summary>
 internal class Program
 {
     public static bool AllUnique(string str)
