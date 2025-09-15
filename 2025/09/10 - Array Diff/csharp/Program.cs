@@ -3,8 +3,7 @@ using System;
 using System.Collections.Generic;
 
 /// <summary>
-/// This is the Daily Coding Challenge for Wed 10 Sep 2025:
-/// <see href="https://www.freecodecamp.org/learn/daily-coding-challenge/2025-09-10">Website Link</see>.
+/// <see href="https://www.freecodecamp.org/learn/daily-coding-challenge/2025-09-10"/>
 /// </summary>
 internal class Program
 {
@@ -60,7 +59,7 @@ internal class Program
 
             Console.WriteLine($"{ArrayToString(actual)} (Success: "
                 + $"{success}).");
-            
+
             if (!success)
             {
                 failures.Add((arr1, arr2));
