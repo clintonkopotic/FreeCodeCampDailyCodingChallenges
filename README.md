@@ -8,6 +8,7 @@ These are my solutions sorted from newest to oldest:
 
 | Date            | Solution Directory |
 | --------------- | ------------------ |
+| Mon 15 Sep 2025 | [Thermostat Adjuster](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/2e73a42aaf568d33db31fbc99da3b97212757d14/2025/09/15%20-%20Thermostat%20Adjuster) |
 | Sun 14 Sep 2025 | [Word Frequency](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/c59cf857d3b99258f5e06eecdaa625f859151b3d/2025/09/14%20-%20Word%20Frequency) |
 | Sat 13 Sep 2025 | [Missing Numbers](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/db525d9c1b54b5a48af67880f7aa40fe7640ea9c/2025/09/13%20-%20Missing%20Numbers) |
 | Fri 12 Sep 2025 | [Screen Time](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/bc8f8d3a73aef8bda4280d958b784c5ba2c3f3f7/2025/09/12%20-%20Screen%20Time) |
