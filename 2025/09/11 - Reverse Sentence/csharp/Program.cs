@@ -3,6 +3,9 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
+/// <summary>
+/// <see href="https://www.freecodecamp.org/learn/daily-coding-challenge/2025-09-11"/>
+/// </summary>
 internal class Program
 {
     static string ReverseSentence(string sentence)
@@ -62,6 +65,7 @@ internal class Program
         { "world hello", "hello world" },
         { "push commit git", "git commit push" },
         { "npm  install  sudo", "sudo install npm" },
-        { "import    default   function  export", "export function default import" },
+        { "import    default   function  export",
+            "export function default import" },
     };
 }
