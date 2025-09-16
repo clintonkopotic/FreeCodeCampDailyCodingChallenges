@@ -18,3 +18,4 @@ These are my solutions sorted from newest to oldest:
 | Tue 09 Sep 2025 | [Unique Characters](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/ff6a7c63de8279af1963b590116f5a870fbf0f7f/2025/09/09%20-%20Unique%20Characters) |
 | Mon 08 Sep 2025 | [Acronym Builder](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/ff6a7c63de8279af1963b590116f5a870fbf0f7f/2025/09/08%20-%20Acronym%20Builder) |
 | Sun 07 Sep 2025 | [Roman Numeral Parser](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/ff6a7c63de8279af1963b590116f5a870fbf0f7f/2025/09/07%20-%20Roman%20Numeral%20Parser) |
+| Sat 06 Sep 2025 | [Matrix Rotate](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/3f21c5b5ed3802b01c0d4377c0e0b73c7f03e229/2025/09/06%20-%20Matrix%20Rotate) |
