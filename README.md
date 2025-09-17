@@ -20,3 +20,4 @@ These are my solutions sorted from newest to oldest:
 | Mon 08 Sep 2025 | [Acronym Builder](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/ff6a7c63de8279af1963b590116f5a870fbf0f7f/2025/09/08%20-%20Acronym%20Builder) |
 | Sun 07 Sep 2025 | [Roman Numeral Parser](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/ff6a7c63de8279af1963b590116f5a870fbf0f7f/2025/09/07%20-%20Roman%20Numeral%20Parser) |
 | Sat 06 Sep 2025 | [Matrix Rotate](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/3f21c5b5ed3802b01c0d4377c0e0b73c7f03e229/2025/09/06%20-%20Matrix%20Rotate) |
+| Fri 05 Sep 2025 | [IPv4 Validator](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/e486d2924f6ae7fd17defc11e1c131297ae8a31f/2025/09/05%20-%20IPv4%20Validator) |
