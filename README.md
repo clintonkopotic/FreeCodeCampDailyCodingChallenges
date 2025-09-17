@@ -8,6 +8,7 @@ These are my solutions sorted from newest to oldest:
 
 | Date            | Solution Directory |
 | --------------: | :----------------- |
+| Wed 17 Sep 2025 | [Slug Generator](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/aa59e761d559d8e734ffc2c54880998da7520753/2025/09/17%20-%20Slug%20Generator) |
 | Tue 16 Sep 2025 | [Sentence Capitalizer](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/1a32f3c84bb80ef7bbbaa7bb4c27d8d64a51c6e4/2025/09/16%20-%20Sentence%20Capitalizer) |
 | Mon 15 Sep 2025 | [Thermostat Adjuster](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/2e73a42aaf568d33db31fbc99da3b97212757d14/2025/09/15%20-%20Thermostat%20Adjuster) |
 | Sun 14 Sep 2025 | [Word Frequency](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/c59cf857d3b99258f5e06eecdaa625f859151b3d/2025/09/14%20-%20Word%20Frequency) |
