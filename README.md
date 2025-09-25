@@ -8,6 +8,7 @@ These are my solutions sorted from newest to oldest:
 
 | Date            | Solution Directory |
 | --------------: | :----------------- |
+| Wed 24 Sep 2025 | [Perfect Square](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/4acf0a33f906031b3cc8a4de10fd9098c92acd86/2025/09/24%20-%20Perfect%20Square) |
 | Tue 23 Sep 2025 | [String Mirror](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/1039a3216e7f93e740e57116a4db522064350bf9/2025/09/23%20-%20String%20Mirror) |
 | Mon 22 Sep 2025 | [Digits vs Letters](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/74365a7f83e61b0709764f3dc0bd5b6a758d9087/2025/09/22%20-%20Digits%20vs%20Letters) |
 | Sun 21 Sep 2025 | [Video Storage](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/0bffe108c116687782047a3c01d6d03d67981bf1/2025/09/21%20-%20Video%20Storage) |
@@ -31,3 +32,4 @@ These are my solutions sorted from newest to oldest:
 | Wed 03 Sep 2025 | [Pangram](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/46697b06adb9767c1732370416beaaf23970a7d8/2025/09/03%20-%20Pangram) |
 | Tue 02 Sep 2025 | [RGB to Hex](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/212e11dbfb2880608d5eebe56c5743644d360a89/2025/09/02%20-%20RGB%20to%20Hex) |
 | Mon 01 Sep 2025 | [Tribonacci Sequence](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/cd084ea76b513ba199dac6a61fb637c17adb7aa4/2025/09/01%20-%20Tribonacci%20Sequence) |
+| Sun 31 Aug 2025 | [Hex Generator](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/ad5ac08d3c8f68b31562fff9acfc814150d5a1cb/2025/08/31%20-%20Hex%20Generator) |
