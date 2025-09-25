@@ -36,3 +36,4 @@ These are my solutions sorted from newest to oldest:
 | Sun 31 Aug 2025 | [Hex Generator](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/ad5ac08d3c8f68b31562fff9acfc814150d5a1cb/2025/08/31%20-%20Hex%20Generator) |
 | Sat 30 Aug 2025 | [Array Duplicates](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/7163a45756b031cefda848bd7e22530a6854ba18/2025/08/30%20-%20Array%20Duplicates) |
 | Fri 29 Aug 2025 | [Candlelight](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/8fafbfa322278717ba8ebea0faf48fa6559f397d/2025/08/29%20-%20Candlelight) |
+| Thu 28 Aug 2025 | [Second Best](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/6794392752a54e539e23cd0095ec5a6a8f9e8c23/2025/08/28%20-%20Second%20Best) |
