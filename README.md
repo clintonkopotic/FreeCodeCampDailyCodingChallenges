@@ -8,6 +8,8 @@ These are my solutions sorted from newest to oldest:
 
 | Date            | Solution Directory |
 | --------------: | :----------------- |
+| Sat 27 Sep 2025 | [Spam Detector](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/8bd0ff4f908cc80238269b79c926e1480345fd5a/2025/09/27%20-%20Spam%20Detector) |
+| Fri 26 Sep 2025 | [Caught Speeding](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/453695bc4f44dbaef9d11cf6b5ecdabc518ce66b/2025/09/26%20-%20Caught%20Speeding) |
 | Thu 25 Sep 2025 | [2nd Largest](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/20c7e031b04bffc84697945a909da3c9113eef1a/2025/09/25%20-%202nd%20Largest) |
 | Wed 24 Sep 2025 | [Perfect Square](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/4acf0a33f906031b3cc8a4de10fd9098c92acd86/2025/09/24%20-%20Perfect%20Square) |
 | Tue 23 Sep 2025 | [String Mirror](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/1039a3216e7f93e740e57116a4db522064350bf9/2025/09/23%20-%20String%20Mirror) |
@@ -37,3 +39,5 @@ These are my solutions sorted from newest to oldest:
 | Sat 30 Aug 2025 | [Array Duplicates](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/7163a45756b031cefda848bd7e22530a6854ba18/2025/08/30%20-%20Array%20Duplicates) |
 | Fri 29 Aug 2025 | [Candlelight](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/8fafbfa322278717ba8ebea0faf48fa6559f397d/2025/08/29%20-%20Candlelight) |
 | Thu 28 Aug 2025 | [Second Best](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/6794392752a54e539e23cd0095ec5a6a8f9e8c23/2025/08/28%20-%20Second%20Best) |
+| Wed 27 Aug 2025 | [Unorder of Operations](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/4c3bdd28d985e32233da707615a0250dbf1b0351/2025/08/27%20-%20Unorder%20of%20Operations) |
+| Tue 26 Aug 2025 | [Reverse Parenthesis](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/d18e853fafdb436a13c35adc77b62768f8153e90/2025/08/26%20-%20Reverse%20Parenthesis) |
