@@ -41,3 +41,4 @@ These are my solutions sorted from newest to oldest:
 | Thu 28 Aug 2025 | [Second Best](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/6794392752a54e539e23cd0095ec5a6a8f9e8c23/2025/08/28%20-%20Second%20Best) |
 | Wed 27 Aug 2025 | [Unorder of Operations](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/4c3bdd28d985e32233da707615a0250dbf1b0351/2025/08/27%20-%20Unorder%20of%20Operations) |
 | Tue 26 Aug 2025 | [Reverse Parenthesis](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/d18e853fafdb436a13c35adc77b62768f8153e90/2025/08/26%20-%20Reverse%20Parenthesis) |
+| Mon 25 Aug 2025 | [camelCase](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/ac828b473b5e9c6950fb4b80aab8ed7fda5f8598/2025/08/25%20-%20camelCase) |
