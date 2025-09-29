@@ -8,6 +8,7 @@ These are my solutions sorted from newest to oldest:
 
 | Date            | Solution Directory |
 | --------------: | :----------------- |
+| Sun 28 Sep 2025 | [CSV Header Parser](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/df92a366b603b670a906999f29efc57e390bef11/2025/09/28%20-%20CSV%20Header%20Parser) |
 | Sat 27 Sep 2025 | [Spam Detector](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/8bd0ff4f908cc80238269b79c926e1480345fd5a/2025/09/27%20-%20Spam%20Detector) |
 | Fri 26 Sep 2025 | [Caught Speeding](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/453695bc4f44dbaef9d11cf6b5ecdabc518ce66b/2025/09/26%20-%20Caught%20Speeding) |
 | Thu 25 Sep 2025 | [2nd Largest](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/20c7e031b04bffc84697945a909da3c9113eef1a/2025/09/25%20-%202nd%20Largest) |
@@ -42,3 +43,4 @@ These are my solutions sorted from newest to oldest:
 | Wed 27 Aug 2025 | [Unorder of Operations](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/4c3bdd28d985e32233da707615a0250dbf1b0351/2025/08/27%20-%20Unorder%20of%20Operations) |
 | Tue 26 Aug 2025 | [Reverse Parenthesis](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/d18e853fafdb436a13c35adc77b62768f8153e90/2025/08/26%20-%20Reverse%20Parenthesis) |
 | Mon 25 Aug 2025 | [camelCase](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/ac828b473b5e9c6950fb4b80aab8ed7fda5f8598/2025/08/25%20-%20camelCase) |
+| Sun 24 Aug 2025 | [Character Battle](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/edecc80471237f493d5cb8c2446ccaaf6dae95be/2025/08/24%20-%20Character%20Battle) |
