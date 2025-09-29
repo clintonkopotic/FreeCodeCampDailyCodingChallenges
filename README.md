@@ -44,3 +44,4 @@ These are my solutions sorted from newest to oldest:
 | Tue 26 Aug 2025 | [Reverse Parenthesis](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/d18e853fafdb436a13c35adc77b62768f8153e90/2025/08/26%20-%20Reverse%20Parenthesis) |
 | Mon 25 Aug 2025 | [camelCase](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/ac828b473b5e9c6950fb4b80aab8ed7fda5f8598/2025/08/25%20-%20camelCase) |
 | Sun 24 Aug 2025 | [Character Battle](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/edecc80471237f493d5cb8c2446ccaaf6dae95be/2025/08/24%20-%20Character%20Battle) |
+| Sat 23 Aug 2025 | [Unnatural Prime](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/c12c1a1a47c222d6cf42b0f0bc08ad93fd3a9e5e/2025/08/23%20-%20Unnatural%20Prime) |
