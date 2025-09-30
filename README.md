@@ -8,6 +8,7 @@ These are my solutions sorted from newest to oldest:
 
 | Date            | Solution Directory |
 | --------------: | :----------------- |
+| Mon 29 Sep 2025 | [Longest Word](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/28f0f54410ec0703b0534829fea0a7709bcf505d/2025/09/29%20-%20Longest%20Word) |
 | Sun 28 Sep 2025 | [CSV Header Parser](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/df92a366b603b670a906999f29efc57e390bef11/2025/09/28%20-%20CSV%20Header%20Parser) |
 | Sat 27 Sep 2025 | [Spam Detector](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/8bd0ff4f908cc80238269b79c926e1480345fd5a/2025/09/27%20-%20Spam%20Detector) |
 | Fri 26 Sep 2025 | [Caught Speeding](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/453695bc4f44dbaef9d11cf6b5ecdabc518ce66b/2025/09/26%20-%20Caught%20Speeding) |
@@ -45,3 +46,5 @@ These are my solutions sorted from newest to oldest:
 | Mon 25 Aug 2025 | [camelCase](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/ac828b473b5e9c6950fb4b80aab8ed7fda5f8598/2025/08/25%20-%20camelCase) |
 | Sun 24 Aug 2025 | [Character Battle](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/edecc80471237f493d5cb8c2446ccaaf6dae95be/2025/08/24%20-%20Character%20Battle) |
 | Sat 23 Aug 2025 | [Unnatural Prime](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/c12c1a1a47c222d6cf42b0f0bc08ad93fd3a9e5e/2025/08/23%20-%20Unnatural%20Prime) |
+| Fri 22 Aug 2025 | [Message Decoder](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/e1bc51517c638fa41b83e6f34a05412a9cc22adb/2025/08/22%20-%20Message%20Decoder) |
+| Thu 21 Aug 2025 | [Mile Pace](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/e6aafa2e0cb034388223da13d953143ac125e042/2025/08/21%20-%20Mile%20Pace) |
