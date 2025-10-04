@@ -8,6 +8,9 @@ These are my solutions sorted from newest to oldest:
 
 | Date            | Solution Directory |
 | --------------: | :----------------- |
+| Fri 03 Oct 2025 | [P@ssw0rd Str3ngth!](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/f21a1e9ebd62d1c5cf22e6a875ee3602a419ce4d/2025/10/03%20-%20P%40ssw0rd%20Str3ngth!) |
+| Thu 02 Oct 2025 | [Decimal to Binary](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/f3634e53c647c0c02f02607c2c38e0fbdecb313b/2025/10/02%20-%20Decimal%20to%20Binary) |
+| Wed 01 Oct 2025 | [Binary to Decimal](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/648e21a7cae882e05bcd3340eced345776004611/2025/10/01%20-%20Binary%20to%20Decimal) |
 | Tue 30 Sep 2025 | [Phone Number Formatter](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/0e99dad26e1c8bfe413a529d53b9e36b6f9f2795/2025/09/30%20-%20Phone%20Number%20Formatter) |
 | Mon 29 Sep 2025 | [Longest Word](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/28f0f54410ec0703b0534829fea0a7709bcf505d/2025/09/29%20-%20Longest%20Word) |
 | Sun 28 Sep 2025 | [CSV Header Parser](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/df92a366b603b670a906999f29efc57e390bef11/2025/09/28%20-%20CSV%20Header%20Parser) |
@@ -52,3 +55,4 @@ These are my solutions sorted from newest to oldest:
 | Wed 20 Aug 2025 | [3 Strikes](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/fddb0be94c86dc9e1410be82b259a8fc0cd8f8d2/2025/08/20%20-%203%20Strikes) |
 | Tue 19 Aug 2025 | [Sum of Squares](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/8c6290c6eb5b0c982afaf428f9998edb13af1ba2/2025/08/19%20-%20Sum%20of%20Squares) |
 | Mon 18 Aug 2025 | [Factorializer](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/c298bb3657a948080d9af73a52f33f696b70052a/2025/08/18%20-%20Factorializer) |
+| Sun 17 Aug 2025 | [Targeted Sum](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/745b6976eec2444f281ac157e010d84e091cec2f/2025/08/17%20-%20Targeted%20Sum) |
