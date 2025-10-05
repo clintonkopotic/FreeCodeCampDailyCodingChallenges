@@ -8,6 +8,7 @@ These are my solutions sorted from newest to oldest:
 
 | Date            | Solution Directory |
 | --------------: | :----------------- |
+| Sat 04 Oct 2025 | [Space Week Day 1: Stellar Classification](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/d28987e07eeacb23d8d7e60ce2d8384c51f8bf2a/2025/10/04%20-%20Space%20Week%20Day%201_%20Stellar%20Classification) |
 | Fri 03 Oct 2025 | [P@ssw0rd Str3ngth!](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/f21a1e9ebd62d1c5cf22e6a875ee3602a419ce4d/2025/10/03%20-%20P%40ssw0rd%20Str3ngth!) |
 | Thu 02 Oct 2025 | [Decimal to Binary](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/f3634e53c647c0c02f02607c2c38e0fbdecb313b/2025/10/02%20-%20Decimal%20to%20Binary) |
 | Wed 01 Oct 2025 | [Binary to Decimal](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/648e21a7cae882e05bcd3340eced345776004611/2025/10/01%20-%20Binary%20to%20Decimal) |
@@ -56,3 +57,5 @@ These are my solutions sorted from newest to oldest:
 | Tue 19 Aug 2025 | [Sum of Squares](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/8c6290c6eb5b0c982afaf428f9998edb13af1ba2/2025/08/19%20-%20Sum%20of%20Squares) |
 | Mon 18 Aug 2025 | [Factorializer](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/c298bb3657a948080d9af73a52f33f696b70052a/2025/08/18%20-%20Factorializer) |
 | Sun 17 Aug 2025 | [Targeted Sum](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/745b6976eec2444f281ac157e010d84e091cec2f/2025/08/17%20-%20Targeted%20Sum) |
+| Sat 16 Aug 2025 | [Anagram Checker](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/811d271443376a60efd307a0b2367d34ad84ac3b/2025/08/16%20-%20Anagram%20Checker) |
+| Fri 15 Aug 2025 | [Jbelmud Text](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/d8f6b4168cf736f0668def6a2481a9578cfb4907/2025/08/15%20-%20Jbelmud%20Text) |
