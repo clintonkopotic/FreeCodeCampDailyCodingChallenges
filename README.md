@@ -8,6 +8,7 @@ These are my solutions sorted from newest to oldest:
 
 | Date            | Solution Directory |
 | --------------: | :----------------- |
+| Mon 06 Oct 2025 | [Space Week Day 3: Phone Home](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/8c559c4b4a1ea46858299dd3106758cdb2f584df/2025/10/06%20-%20Space%20Week%20Day%203_%20Phone%20Home) |
 | Sun 05 Oct 2025 | [Space Week Day 2: Exoplanet Search](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/0d8fb191820e28e3099bdfd9788d40fc27caf0fb/2025/10/05%20-%20Space%20Week%20Day%202_%20Exoplanet%20Search) |
 | Sat 04 Oct 2025 | [Space Week Day 1: Stellar Classification](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/d28987e07eeacb23d8d7e60ce2d8384c51f8bf2a/2025/10/04%20-%20Space%20Week%20Day%201_%20Stellar%20Classification) |
 | Fri 03 Oct 2025 | [P@ssw0rd Str3ngth!](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/f21a1e9ebd62d1c5cf22e6a875ee3602a419ce4d/2025/10/03%20-%20P%40ssw0rd%20Str3ngth!) |
@@ -61,3 +62,4 @@ These are my solutions sorted from newest to oldest:
 | Sat 16 Aug 2025 | [Anagram Checker](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/811d271443376a60efd307a0b2367d34ad84ac3b/2025/08/16%20-%20Anagram%20Checker) |
 | Fri 15 Aug 2025 | [Jbelmud Text](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/d8f6b4168cf736f0668def6a2481a9578cfb4907/2025/08/15%20-%20Jbelmud%20Text) |
 | Thu 14 Aug 2025 | [S P A C E J A M](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/439a29d2273c6a1cb42c6b622b7a0c6ae6c5921e/2025/08/14%20-%20S%20P%20A%20C%20E%20J%20A%20M) |
+| Wed 13 Aug 2025 | [Fibonacci Sequence](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/a46c5608e904e4f65ff201961ad152365dd25020/2025/08/13%20-%20Fibonacci%20Sequence) |
