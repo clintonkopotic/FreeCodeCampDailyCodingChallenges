@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelBalance", "VowelBalance.csproj", "{9601C4D3-8F2E-4C89-AF7E-2C6B6ECE666C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9601C4D3-8F2E-4C89-AF7E-2C6B6ECE666C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9601C4D3-8F2E-4C89-AF7E-2C6B6ECE666C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9601C4D3-8F2E-4C89-AF7E-2C6B6ECE666C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9601C4D3-8F2E-4C89-AF7E-2C6B6ECE666C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C27CF4C-FDB2-46D8-96E4-AD49C43DE9EB}
+	EndGlobalSection
+EndGlobal
