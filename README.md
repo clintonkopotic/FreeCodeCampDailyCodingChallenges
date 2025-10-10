@@ -8,6 +8,7 @@ These are my solutions sorted from newest to oldest:
 
 | Date            | Solution Directory |
 | --------------: | :----------------- |
+| Thu 09 Oct 2025 | [Space Week Day 6: Moon Phase](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/91e4eedb7a5a59a32da923e1cceba97f337d7316/2025/10/09%20-%20Space%20Week%20Day%206_%20Moon%20Phase) |
 | Wed 08 Oct 2025 | [Space Week Day 5: Goldilocks Zone](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/691b171d213c091d950ec34445cb9cd78ea4ef54/2025/10/08%20-%20Space%20Week%20Day%205_%20Goldilocks%20Zone) |
 | Tue 07 Oct 2025 | [Space Week Day 4: Landing Spot](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/7e8ace90d39aec8e6b6c7c09c0514011e6142f4b/2025/10/07%20-%20Space%20Week%20Day%204_%20Landing%20Spot) |
 | Mon 06 Oct 2025 | [Space Week Day 3: Phone Home](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/8c559c4b4a1ea46858299dd3106758cdb2f584df/2025/10/06%20-%20Space%20Week%20Day%203_%20Phone%20Home) |
