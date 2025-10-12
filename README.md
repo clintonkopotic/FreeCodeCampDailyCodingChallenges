@@ -8,6 +8,8 @@ These are my solutions sorted from newest to oldest:
 
 | Date            | Solution Directory |
 | --------------: | :----------------- |
+| Sat 11 Oct 2025 | [Hex to Decimal](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/686d5fae548880531798c1df7f0de22c83e85f48/2025/10/11%20-%20Hex%20to%20Decimal) |
+| Fri 10 Oct 2025 | [Space Week Day 7: Launch Fuel](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/ce7345e163268f6fa75281e45654d3a632f81d52/2025/10/10%20-%20Space%20Week%20Day%207_%20Launch%20Fuel) |
 | Thu 09 Oct 2025 | [Space Week Day 6: Moon Phase](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/91e4eedb7a5a59a32da923e1cceba97f337d7316/2025/10/09%20-%20Space%20Week%20Day%206_%20Moon%20Phase) |
 | Wed 08 Oct 2025 | [Space Week Day 5: Goldilocks Zone](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/691b171d213c091d950ec34445cb9cd78ea4ef54/2025/10/08%20-%20Space%20Week%20Day%205_%20Goldilocks%20Zone) |
 | Tue 07 Oct 2025 | [Space Week Day 4: Landing Spot](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/7e8ace90d39aec8e6b6c7c09c0514011e6142f4b/2025/10/07%20-%20Space%20Week%20Day%204_%20Landing%20Spot) |
