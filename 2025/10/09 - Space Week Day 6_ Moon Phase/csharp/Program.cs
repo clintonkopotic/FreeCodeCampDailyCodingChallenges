@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Globalization;
 
 /// <summary>
-/// <see href=""/>
+/// <see href="https://www.freecodecamp.org/learn/daily-coding-challenge/2025-10-09"/>
 /// </summary>
 internal class Program
 {
@@ -64,12 +64,12 @@ internal class Program
         }
     }
 
-    static List<(string dateString, string expected)> Tests => new()
-    {
+    static List<(string dateString, string expected)> Tests =>
+    [
         ("2000-01-12", "New"),
         ("2000-01-13", "Waxing"),
         ("2014-10-15", "Full"),
         ("2012-10-21", "Waning"),
         ("2022-12-14", "New"),
-    };
+    ];
 }
