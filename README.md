@@ -8,6 +8,7 @@ These are my solutions sorted from newest to oldest:
 
 | Date            | Solution Directory |
 | --------------: | :----------------- |
+| Wed 15 Oct 2025 | [HTML Tag Stripper](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/508dd02631d63c37b505133ec7c2a26aad928723/2025/10/15%20-%20HTML%20Tag%20Stripper) |
 | Tue 14 Oct 2025 | [String Count](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/6e14d96158e1fa47d058084225a74d02be6eb861/2025/10/14%20-%20String%20Count) |
 | Mon 13 Oct 2025 | [24 to 12](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/f79c630973a8f674b42e9856b99dbfefa2bf6e9f/2025/10/13%20-%2024%20to%2012) |
 | Sun 12 Oct 2025 | [Battle of Words](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/3a55216916f2aaab6fbb63ec426e14aaee9d4cf3/2025/10/12%20-%20Battle%20of%20Words) |
