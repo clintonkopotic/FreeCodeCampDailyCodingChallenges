@@ -6,7 +6,7 @@ function sendMessage(route) {
 
   let distanceTraveledInKm = 0;
   // Start at negative one to not count the trip to the first satellite.
-  let numberOfSatelitesPassedThrough = -1; 
+  let numberOfSatelitesPassedThrough = -1;
 
   for (const value of route) {
     if (!Number.isFinite(value) || value < 0) {
