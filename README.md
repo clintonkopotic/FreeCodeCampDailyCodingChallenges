@@ -8,6 +8,8 @@ These are my solutions sorted from newest to oldest:
 
 | Date            | Solution Directory |
 | --------------: | :----------------- |
+| Sat 18 Oct 2025 | [Missing Socks](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/40bdd0e45950c8693e4b3ffe4d697f8df723e938/2025/10/18%20-%20Missing%20Socks) |
+| Fri 17 Oct 2025 | [Credit Card Masker](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/1efba984fc37e9158115bc13f057356c42475c83/2025/10/17%20-%20Credit%20Card%20Masker) |
 | Thu 16 Oct 2025 | [Email Validator](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/f17b0654e4c34165d79624ddef3b462ccc6e9e48/2025/10/16%20-%20Email%20Validator) |
 | Wed 15 Oct 2025 | [HTML Tag Stripper](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/508dd02631d63c37b505133ec7c2a26aad928723/2025/10/15%20-%20HTML%20Tag%20Stripper) |
 | Tue 14 Oct 2025 | [String Count](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/6e14d96158e1fa47d058084225a74d02be6eb861/2025/10/14%20-%20String%20Count) |
@@ -18,7 +20,7 @@ These are my solutions sorted from newest to oldest:
 | Thu 09 Oct 2025 | [Space Week Day 6: Moon Phase](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/eacaa2a85b15ce2ba580fdac8f9c1b9901fc9332/2025/10/09%20-%20Space%20Week%20Day%206_%20Moon%20Phase) |
 | Wed 08 Oct 2025 | [Space Week Day 5: Goldilocks Zone](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/eacaa2a85b15ce2ba580fdac8f9c1b9901fc9332/2025/10/08%20-%20Space%20Week%20Day%205_%20Goldilocks%20Zone) |
 | Tue 07 Oct 2025 | [Space Week Day 4: Landing Spot](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/a64532f00421c5d9b00df49e638a59e8e005c46b/2025/10/07%20-%20Space%20Week%20Day%204_%20Landing%20Spot) |
-| Mon 06 Oct 2025 | [Space Week Day 3: Phone Home](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/8c559c4b4a1ea46858299dd3106758cdb2f584df/2025/10/06%20-%20Space%20Week%20Day%203_%20Phone%20Home) |
+| Mon 06 Oct 2025 | [Space Week Day 3: Phone Home](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/a5302610a582ba7a620cf8074d5cd1a1adfcb364/2025/10/06%20-%20Space%20Week%20Day%203_%20Phone%20Home) |
 | Sun 05 Oct 2025 | [Space Week Day 2: Exoplanet Search](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/0d8fb191820e28e3099bdfd9788d40fc27caf0fb/2025/10/05%20-%20Space%20Week%20Day%202_%20Exoplanet%20Search) |
 | Sat 04 Oct 2025 | [Space Week Day 1: Stellar Classification](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/d28987e07eeacb23d8d7e60ce2d8384c51f8bf2a/2025/10/04%20-%20Space%20Week%20Day%201_%20Stellar%20Classification) |
 | Fri 03 Oct 2025 | [P@ssw0rd Str3ngth!](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/f21a1e9ebd62d1c5cf22e6a875ee3602a419ce4d/2025/10/03%20-%20P%40ssw0rd%20Str3ngth!) |
