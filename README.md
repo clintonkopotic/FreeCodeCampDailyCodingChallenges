@@ -8,6 +8,8 @@ These are my solutions sorted from newest to oldest:
 
 | Date            | Solution Directory |
 | --------------: | :----------------- |
+| Mon 20 Oct 2025 | [Tip Calculator](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/eb551e1a1c3f201c926f677febaa877710482be4/2025/10/20%20-%20Tip%20Calculator) |
+| Sun 19 Oct 2025 | [HTML Attribute Extractor](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/95e231e9f93f13fc38550eb109361374a1bb7f7d/2025/10/19%20-%20HTML%20Attribute%20Extractor) |
 | Sat 18 Oct 2025 | [Missing Socks](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/40bdd0e45950c8693e4b3ffe4d697f8df723e938/2025/10/18%20-%20Missing%20Socks) |
 | Fri 17 Oct 2025 | [Credit Card Masker](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/1efba984fc37e9158115bc13f057356c42475c83/2025/10/17%20-%20Credit%20Card%20Masker) |
 | Thu 16 Oct 2025 | [Email Validator](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/f17b0654e4c34165d79624ddef3b462ccc6e9e48/2025/10/16%20-%20Email%20Validator) |
