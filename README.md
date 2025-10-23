@@ -8,6 +8,7 @@ These are my solutions sorted from newest to oldest:
 
 | Date            | Solution Directory |
 | --------------: | :----------------- |
+| Wed 22 Oct 2025 | [Speak Wisely, You Must](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/cc7da313a4f50cf7dc65c98365cad6fead2bce2d/2025/10/22%20-%20Speak%20Wisely%2C%20You%20Must) |
 | Tue 21 Oct 2025 | [Thermostat Adjuster 2](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/47e18f3f81903374cfa5dea1c73166bef3b74f1f/2025/10/21%20-%20Thermostat%20Adjuster%202) |
 | Mon 20 Oct 2025 | [Tip Calculator](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/eb551e1a1c3f201c926f677febaa877710482be4/2025/10/20%20-%20Tip%20Calculator) |
 | Sun 19 Oct 2025 | [HTML Attribute Extractor](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/95e231e9f93f13fc38550eb109361374a1bb7f7d/2025/10/19%20-%20HTML%20Attribute%20Extractor) |
