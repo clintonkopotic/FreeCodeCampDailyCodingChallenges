@@ -8,6 +8,7 @@ These are my solutions sorted from newest to oldest:
 
 | Date            | Solution Directory |
 | --------------: | :----------------- |
+| Fri 24 Oct 2025 | [Hidden Treasure](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/c1a41ad52e32fa7f6dc45b0ec0b355e1994b7152/2025/10/24%20-%20Hidden%20Treasure) |
 | Thu 23 Oct 2025 | [Favorite Songs](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/ef4e52a9f1dcaa9abda2e82da8f10ea8981bdf5a/2025/10/23%20-%20Favorite%20Songs) |
 | Wed 22 Oct 2025 | [Speak Wisely, You Must](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/cc7da313a4f50cf7dc65c98365cad6fead2bce2d/2025/10/22%20-%20Speak%20Wisely%2C%20You%20Must) |
 | Tue 21 Oct 2025 | [Thermostat Adjuster 2](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/47e18f3f81903374cfa5dea1c73166bef3b74f1f/2025/10/21%20-%20Thermostat%20Adjuster%202) |
@@ -28,8 +29,8 @@ These are my solutions sorted from newest to oldest:
 | Mon 06 Oct 2025 | [Space Week Day 3: Phone Home](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/a5302610a582ba7a620cf8074d5cd1a1adfcb364/2025/10/06%20-%20Space%20Week%20Day%203_%20Phone%20Home) |
 | Sun 05 Oct 2025 | [Space Week Day 2: Exoplanet Search](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/5d8db3f0bbf15a7b902b1082e7d5f39cc37cfd42/2025/10/05%20-%20Space%20Week%20Day%202_%20Exoplanet%20Search) |
 | Sat 04 Oct 2025 | [Space Week Day 1: Stellar Classification](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/0d36bf5713fb8d891ffb03434c2b8c425f88c4a6/2025/10/04%20-%20Space%20Week%20Day%201_%20Stellar%20Classification) |
-| Fri 03 Oct 2025 | [P@ssw0rd Str3ngth!](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/f21a1e9ebd62d1c5cf22e6a875ee3602a419ce4d/2025/10/03%20-%20P%40ssw0rd%20Str3ngth!) |
-| Thu 02 Oct 2025 | [Decimal to Binary](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/f3634e53c647c0c02f02607c2c38e0fbdecb313b/2025/10/02%20-%20Decimal%20to%20Binary) |
+| Fri 03 Oct 2025 | [P@ssw0rd Str3ngth!](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/cc47cba625a470fa849abc863a69caea70aa5e1c/2025/10/03%20-%20P%40ssw0rd%20Str3ngth!) |
+| Thu 02 Oct 2025 | [Decimal to Binary](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/e034b74f9bab6f299d31d5ac6013d0716a541acb/2025/10/02%20-%20Decimal%20to%20Binary) |
 | Wed 01 Oct 2025 | [Binary to Decimal](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/648e21a7cae882e05bcd3340eced345776004611/2025/10/01%20-%20Binary%20to%20Decimal) |
 | Tue 30 Sep 2025 | [Phone Number Formatter](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/0e99dad26e1c8bfe413a529d53b9e36b6f9f2795/2025/09/30%20-%20Phone%20Number%20Formatter) |
 | Mon 29 Sep 2025 | [Longest Word](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/28f0f54410ec0703b0534829fea0a7709bcf505d/2025/09/29%20-%20Longest%20Word) |
