@@ -8,6 +8,7 @@ These are my solutions sorted from newest to oldest:
 
 | Date            | Solution Directory |
 | --------------: | :----------------- |
+| Sat 25 Oct 2025 | [Complementary DNA](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/65e6f413f5ba60e724878fc6886d2d7ed223a51a/2025/10/25%20-%20Complementary%20DNA) |
 | Fri 24 Oct 2025 | [Hidden Treasure](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/c1a41ad52e32fa7f6dc45b0ec0b355e1994b7152/2025/10/24%20-%20Hidden%20Treasure) |
 | Thu 23 Oct 2025 | [Favorite Songs](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/ef4e52a9f1dcaa9abda2e82da8f10ea8981bdf5a/2025/10/23%20-%20Favorite%20Songs) |
 | Wed 22 Oct 2025 | [Speak Wisely, You Must](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/cc7da313a4f50cf7dc65c98365cad6fead2bce2d/2025/10/22%20-%20Speak%20Wisely%2C%20You%20Must) |
