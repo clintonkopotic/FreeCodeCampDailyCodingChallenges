@@ -33,7 +33,7 @@ These are my solutions sorted from newest to oldest:
 | Sat 04 Oct 2025 | [Space Week Day 1: Stellar Classification](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/0d36bf5713fb8d891ffb03434c2b8c425f88c4a6/2025/10/04%20-%20Space%20Week%20Day%201_%20Stellar%20Classification) |
 | Fri 03 Oct 2025 | [P@ssw0rd Str3ngth!](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/cc47cba625a470fa849abc863a69caea70aa5e1c/2025/10/03%20-%20P%40ssw0rd%20Str3ngth!) |
 | Thu 02 Oct 2025 | [Decimal to Binary](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/e034b74f9bab6f299d31d5ac6013d0716a541acb/2025/10/02%20-%20Decimal%20to%20Binary) |
-| Wed 01 Oct 2025 | [Binary to Decimal](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/648e21a7cae882e05bcd3340eced345776004611/2025/10/01%20-%20Binary%20to%20Decimal) |
+| Wed 01 Oct 2025 | [Binary to Decimal](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/69b232ac61baf107109e22a1d977ee764b55d428/2025/10/01%20-%20Binary%20to%20Decimal) |
 | Tue 30 Sep 2025 | [Phone Number Formatter](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/0e99dad26e1c8bfe413a529d53b9e36b6f9f2795/2025/09/30%20-%20Phone%20Number%20Formatter) |
 | Mon 29 Sep 2025 | [Longest Word](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/28f0f54410ec0703b0534829fea0a7709bcf505d/2025/09/29%20-%20Longest%20Word) |
 | Sun 28 Sep 2025 | [CSV Header Parser](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/df92a366b603b670a906999f29efc57e390bef11/2025/09/28%20-%20CSV%20Header%20Parser) |
