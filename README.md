@@ -8,6 +8,7 @@ These are my solutions sorted from newest to oldest:
 
 | Date            | Solution Directory |
 | --------------: | :----------------- |
+| Sun 26 Oct 2025 | [Duration Formatter](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/34717cc8a67edf1f92b03932c1a6dd042e2c8ad4/2025/10/26%20-%20Duration%20Formatter) |
 | Sat 25 Oct 2025 | [Complementary DNA](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/65e6f413f5ba60e724878fc6886d2d7ed223a51a/2025/10/25%20-%20Complementary%20DNA) |
 | Fri 24 Oct 2025 | [Hidden Treasure](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/c1a41ad52e32fa7f6dc45b0ec0b355e1994b7152/2025/10/24%20-%20Hidden%20Treasure) |
 | Thu 23 Oct 2025 | [Favorite Songs](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/ef4e52a9f1dcaa9abda2e82da8f10ea8981bdf5a/2025/10/23%20-%20Favorite%20Songs) |
