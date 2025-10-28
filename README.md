@@ -8,6 +8,7 @@ These are my solutions sorted from newest to oldest:
 
 | Date            | Solution Directory |
 | --------------: | :----------------- |
+| Mon 27 Oct 2025 | [Integer Sequence](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/9b1e5eb454241c68ce43d6428614f8fbd21d5f51/2025/10/27%20-%20Integer%20Sequence) |
 | Sun 26 Oct 2025 | [Duration Formatter](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/34717cc8a67edf1f92b03932c1a6dd042e2c8ad4/2025/10/26%20-%20Duration%20Formatter) |
 | Sat 25 Oct 2025 | [Complementary DNA](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/65e6f413f5ba60e724878fc6886d2d7ed223a51a/2025/10/25%20-%20Complementary%20DNA) |
 | Fri 24 Oct 2025 | [Hidden Treasure](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/c1a41ad52e32fa7f6dc45b0ec0b355e1994b7152/2025/10/24%20-%20Hidden%20Treasure) |
@@ -34,7 +35,7 @@ These are my solutions sorted from newest to oldest:
 | Fri 03 Oct 2025 | [P@ssw0rd Str3ngth!](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/cc47cba625a470fa849abc863a69caea70aa5e1c/2025/10/03%20-%20P%40ssw0rd%20Str3ngth!) |
 | Thu 02 Oct 2025 | [Decimal to Binary](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/e034b74f9bab6f299d31d5ac6013d0716a541acb/2025/10/02%20-%20Decimal%20to%20Binary) |
 | Wed 01 Oct 2025 | [Binary to Decimal](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/69b232ac61baf107109e22a1d977ee764b55d428/2025/10/01%20-%20Binary%20to%20Decimal) |
-| Tue 30 Sep 2025 | [Phone Number Formatter](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/0e99dad26e1c8bfe413a529d53b9e36b6f9f2795/2025/09/30%20-%20Phone%20Number%20Formatter) |
+| Tue 30 Sep 2025 | [Phone Number Formatter](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/810d24a7ca1b7ca0760ef31c225e7f8de1fd902d/2025/09/30%20-%20Phone%20Number%20Formatter) |
 | Mon 29 Sep 2025 | [Longest Word](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/28f0f54410ec0703b0534829fea0a7709bcf505d/2025/09/29%20-%20Longest%20Word) |
 | Sun 28 Sep 2025 | [CSV Header Parser](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/df92a366b603b670a906999f29efc57e390bef11/2025/09/28%20-%20CSV%20Header%20Parser) |
 | Sat 27 Sep 2025 | [Spam Detector](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/8bd0ff4f908cc80238269b79c926e1480345fd5a/2025/09/27%20-%20Spam%20Detector) |
