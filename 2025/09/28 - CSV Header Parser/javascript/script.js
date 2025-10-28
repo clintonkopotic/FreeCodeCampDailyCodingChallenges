@@ -14,7 +14,7 @@ function getHeadings(csv) {
 
     headings.push(headingSplit.trim());
   }
-  
+
   return headings;
 }
 
@@ -35,6 +35,7 @@ for (const test of tests) {
   const actual = getHeadings(csv);
   const success = areArraysIdentical(expected, actual);
 
+  // eslint-disable-next-line no-useless-escape
   console.log(`Testing \"${csv}\" (expected [${expected}])...[${actual}] (success: ${success}).`);
 
   if (!success) {
@@ -46,7 +47,8 @@ if (Array.isArray(failures) && failures.length !== 0) {
   console.log("The following inputs failed:");
 
   for (const failure of failures) {
-    console.log(`  [${failure}].`);
+    // eslint-disable-next-line no-useless-escape
+    console.log(`  \"${failure}\".`);
   }
 }
 else {
