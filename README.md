@@ -36,8 +36,8 @@ These are my solutions sorted from newest to oldest:
 | Thu 02 Oct 2025 | [Decimal to Binary](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/e034b74f9bab6f299d31d5ac6013d0716a541acb/2025/10/02%20-%20Decimal%20to%20Binary) |
 | Wed 01 Oct 2025 | [Binary to Decimal](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/69b232ac61baf107109e22a1d977ee764b55d428/2025/10/01%20-%20Binary%20to%20Decimal) |
 | Tue 30 Sep 2025 | [Phone Number Formatter](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/810d24a7ca1b7ca0760ef31c225e7f8de1fd902d/2025/09/30%20-%20Phone%20Number%20Formatter) |
-| Mon 29 Sep 2025 | [Longest Word](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/28f0f54410ec0703b0534829fea0a7709bcf505d/2025/09/29%20-%20Longest%20Word) |
-| Sun 28 Sep 2025 | [CSV Header Parser](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/df92a366b603b670a906999f29efc57e390bef11/2025/09/28%20-%20CSV%20Header%20Parser) |
+| Mon 29 Sep 2025 | [Longest Word](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/785fef989e8d5901839ab6ffa5a3149805f050af/2025/09/29%20-%20Longest%20Word) |
+| Sun 28 Sep 2025 | [CSV Header Parser](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/f4e3401385183f32221dc9ff53e3a1f2ff5585d2/2025/09/28%20-%20CSV%20Header%20Parser) |
 | Sat 27 Sep 2025 | [Spam Detector](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/8bd0ff4f908cc80238269b79c926e1480345fd5a/2025/09/27%20-%20Spam%20Detector) |
 | Fri 26 Sep 2025 | [Caught Speeding](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/453695bc4f44dbaef9d11cf6b5ecdabc518ce66b/2025/09/26%20-%20Caught%20Speeding) |
 | Thu 25 Sep 2025 | [2nd Largest](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/20c7e031b04bffc84697945a909da3c9113eef1a/2025/09/25%20-%202nd%20Largest) |
