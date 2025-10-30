@@ -5,6 +5,7 @@ function isSpam(number) {
   }
 
   // Parse number into country code, area code, prefix, and suffix.
+  // eslint-disable-next-line no-useless-escape
   const pattern = /^\+(?<countryCode>\d+)\s\((?<areaCode>\d{3})\)\s(?<prefix>\d{3})\-(?<suffix>\d{4})$/;
   const match = number.match(pattern);
 
@@ -105,6 +106,7 @@ for (const test of tests) {
   const actual = isSpam(number);
   const success = expected === actual;
 
+  // eslint-disable-next-line no-useless-escape
   console.log(`Testing \"${number}\" (expecting ${expected})...${actual} (success: ${success}).`);
 
   if (!success) {
@@ -116,6 +118,7 @@ if (Array.isArray(failures) && failures.length !== 0) {
   console.log("The following inputs failed:");
 
   for (const failure of failures) {
+    // eslint-disable-next-line no-useless-escape
     console.log(`  \"${failure}\".`);
   }
 }
