@@ -8,6 +8,8 @@ These are my solutions sorted from newest to oldest:
 
 | Date            | Solution Directory |
 | --------------: | :----------------- |
+| Wed 29 Oct 2025 | [Email Sorter](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/e8e56595e6698f1bd4295f09cff54309559c1ec7/2025/10/29%20-%20Email%20Sorter) |
+| Tue 28 Oct 2025 | [Navigator](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/a504819e6d6de19a66f29de346064ce713cd446d/2025/10/28%20-%20Navigator) |
 | Mon 27 Oct 2025 | [Integer Sequence](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/9b1e5eb454241c68ce43d6428614f8fbd21d5f51/2025/10/27%20-%20Integer%20Sequence) |
 | Sun 26 Oct 2025 | [Duration Formatter](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/34717cc8a67edf1f92b03932c1a6dd042e2c8ad4/2025/10/26%20-%20Duration%20Formatter) |
 | Sat 25 Oct 2025 | [Complementary DNA](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/65e6f413f5ba60e724878fc6886d2d7ed223a51a/2025/10/25%20-%20Complementary%20DNA) |
@@ -38,7 +40,7 @@ These are my solutions sorted from newest to oldest:
 | Tue 30 Sep 2025 | [Phone Number Formatter](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/810d24a7ca1b7ca0760ef31c225e7f8de1fd902d/2025/09/30%20-%20Phone%20Number%20Formatter) |
 | Mon 29 Sep 2025 | [Longest Word](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/785fef989e8d5901839ab6ffa5a3149805f050af/2025/09/29%20-%20Longest%20Word) |
 | Sun 28 Sep 2025 | [CSV Header Parser](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/f4e3401385183f32221dc9ff53e3a1f2ff5585d2/2025/09/28%20-%20CSV%20Header%20Parser) |
-| Sat 27 Sep 2025 | [Spam Detector](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/8bd0ff4f908cc80238269b79c926e1480345fd5a/2025/09/27%20-%20Spam%20Detector) |
+| Sat 27 Sep 2025 | [Spam Detector](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/ec0abbd137d05f1b4a2eef3bef5f0196fc3523ef/2025/09/27%20-%20Spam%20Detector) |
 | Fri 26 Sep 2025 | [Caught Speeding](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/453695bc4f44dbaef9d11cf6b5ecdabc518ce66b/2025/09/26%20-%20Caught%20Speeding) |
 | Thu 25 Sep 2025 | [2nd Largest](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/20c7e031b04bffc84697945a909da3c9113eef1a/2025/09/25%20-%202nd%20Largest) |
 | Wed 24 Sep 2025 | [Perfect Square](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/4acf0a33f906031b3cc8a4de10fd9098c92acd86/2025/09/24%20-%20Perfect%20Square) |
