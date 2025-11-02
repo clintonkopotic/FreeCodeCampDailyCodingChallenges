@@ -8,6 +8,7 @@ These are my solutions sorted from newest to oldest:
 
 | Date            | Solution Directory |
 | --------------: | :----------------- |
+| Thu 30 Oct 2025 | [Nth Prime](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/c4d95e1f102d3546f776c00345aa9975e90de6f1/2025/10/30%20-%20Nth%20Prime) |
 | Wed 29 Oct 2025 | [Email Sorter](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/e8e56595e6698f1bd4295f09cff54309559c1ec7/2025/10/29%20-%20Email%20Sorter) |
 | Tue 28 Oct 2025 | [Navigator](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/a504819e6d6de19a66f29de346064ce713cd446d/2025/10/28%20-%20Navigator) |
 | Mon 27 Oct 2025 | [Integer Sequence](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/9b1e5eb454241c68ce43d6428614f8fbd21d5f51/2025/10/27%20-%20Integer%20Sequence) |
