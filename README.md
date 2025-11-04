@@ -8,6 +8,9 @@ These are my solutions sorted from newest to oldest:
 
 | Date            | Solution Directory |
 | --------------: | :----------------- |
+| Mon 03 Nov 2025 | [Word Counter](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/292fc7b7d21ad76b03f2fcd25a031586deb15b59/2025/11/03%20-%20Word%20Counter) |
+| Sun 02 Nov 2025 | [Infected](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/b1c3719117ca6ec439f0ce9a74d8552c38a9dbcf/2025/11/02%20-%20Infected) |
+| Sat 01 Nov 2025 | [Signature Validation](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/a26b0dc0300ccb48569fb8641f658eca255c3378/2025/11/01%20-%20Signature%20Validation)
 | Fri 31 Oct 2025 | [SpOoKy~CaSe](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/e9f2c8dc205b9a7dc5bf0556454e136008eef6ce/2025/10/31%20-%20SpOoKy~CaSe) |
 | Thu 30 Oct 2025 | [Nth Prime](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/c4d95e1f102d3546f776c00345aa9975e90de6f1/2025/10/30%20-%20Nth%20Prime) |
 | Wed 29 Oct 2025 | [Email Sorter](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/e8e56595e6698f1bd4295f09cff54309559c1ec7/2025/10/29%20-%20Email%20Sorter) |
