@@ -8,6 +8,11 @@ These are my solutions sorted from newest to oldest:
 
 | Date            | Solution Directory |
 | --------------: | :----------------- |
+| Sat 08 Nov 2025 | [Character Limit](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/0d6e61836be3e605ec087fd74cd28475df396884/2025/11/08%20-%20Character%20Limit) |
+| Fri 07 Nov 2025 | [Counting Cards](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/556a10f7c9a23a5675abaab54235e19f35d5a726/2025/11/07%20-%20Counting%20Cards) |
+| Thu 06 Nov 2025 | [Weekday Finder](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/805292ae2d7b35c373d0c83450254b848ea19157/2025/11/06%20-%20Weekday%20Finder) |
+| Wed 05 Nov 2025 | [Matrix Builder](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/39282fd68ebdcf36ea9fc72f64382f710ce9f171/2025/11/05%20-%20Matrix%20Builder) |
+| Tue 04 Nov 2025 | [Image Search](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/4885391fae37b89f4456c0db235d059b92671edc/2025/11/04%20-%20Image%20Search) |
 | Mon 03 Nov 2025 | [Word Counter](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/292fc7b7d21ad76b03f2fcd25a031586deb15b59/2025/11/03%20-%20Word%20Counter) |
 | Sun 02 Nov 2025 | [Infected](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/b1c3719117ca6ec439f0ce9a74d8552c38a9dbcf/2025/11/02%20-%20Infected) |
 | Sat 01 Nov 2025 | [Signature Validation](https://github.com/clintonkopotic/FreeCodeCampDailyCodingChallenges/tree/a26b0dc0300ccb48569fb8641f658eca255c3378/2025/11/01%20-%20Signature%20Validation)
